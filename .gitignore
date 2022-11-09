@@ -1,0 +1,5 @@
+.venv/
+django_project/settings.py
+manage.py
+__pycache__/
+db.sqlite3
